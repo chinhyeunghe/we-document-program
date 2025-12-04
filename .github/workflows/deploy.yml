@@ -3,7 +3,7 @@ name: Deploy VuePress
 on:
   push:
     branches:
-      - dev
+      - dev   # Khi push lên branch dev, workflow sẽ chạy
 
 jobs:
   build-and-deploy:
@@ -30,5 +30,9 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GH_PAT }}   # Dùng token bạn tạo
           publish_dir: docs/.vuepress/dist
+          publish_branch: gh-pages              # Nhánh đích
+          force_orphan: true                    # Tạo nhánh mới nếu chưa tồn tại
+          user_name: 'GitHub Actions'          # Tên user commit
+          user_email: 'actions@github.com'     # Email user commit
