@@ -60,7 +60,7 @@ export default defineUserConfig({
         {
           text: "VueJs",
           collapsible: true,
-          children: ["/vuejs/info.md"],
+          children: ["/vuejs/info.md", "/vuejs/component/table.md"],
         },
       ],
     },
