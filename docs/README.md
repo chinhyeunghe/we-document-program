@@ -1,19 +1,17 @@
 ---
 home: true
-title: 'Trang chủ'
-heroText: 'Tài liệu lập trình'
-tagline: 'Xin chào những người anh em lập trình iu quí. Chúng ta hãy cùng nhau xây dựng và phát triển mạnh mẽ trên website chia sẻ tài liệu, kiến thức lập trình này nhé!'
+title: 'Home'
+heroText: 'Programming Documentation'
+tagline: 'Hello dear programmers! Let’s build and develop this website together to share programming knowledge and documentation.'
 actions:
-  - text: 'Khám phá PHP'
+  - text: 'Explore PHP'
     link: '/php/intro'
     type: 'secondary'
 
 features:
   - title: 'PHP'
-    details: 'Chia sẻ kiến thức PHP và xây dựng ứng dụng web'
+    details: 'Sharing PHP knowledge and building web applications'
 ---
-
-
 
 
 ## Thành viên đóng góp

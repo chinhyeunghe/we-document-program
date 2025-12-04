@@ -2,7 +2,7 @@ export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":""} }],
-  ["/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"Trang chủ"} }],
+  ["/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"Home"} }],
   ["/javascript/closure.html", { loader: () => import(/* webpackChunkName: "javascript_closure.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/javascript/closure.html.js"), meta: {"title":"Closure trong JavaScript"} }],
   ["/javascript/intro.html", { loader: () => import(/* webpackChunkName: "javascript_intro.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/javascript/intro.html.js"), meta: {"title":"Giới thiệu JavaScript"} }],
   ["/javascript/", { loader: () => import(/* webpackChunkName: "javascript_index.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/javascript/index.html.js"), meta: {"title":"JavaScript"} }],
