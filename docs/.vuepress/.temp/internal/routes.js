@@ -12,6 +12,7 @@ export const routes = Object.fromEntries([
   ["/php/pdo.html", { loader: () => import(/* webpackChunkName: "php_pdo.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/php/pdo.html.js"), meta: {"title":""} }],
   ["/php/", { loader: () => import(/* webpackChunkName: "php_index.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/php/index.html.js"), meta: {"title":"PHP"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
+  ["/vuejs/component/table.html", { loader: () => import(/* webpackChunkName: "vuejs_component_table.html" */"D:/laragon/www/document-program/docs/.vuepress/.temp/pages/vuejs/component/table.html.js"), meta: {"title":"DataTable Component - Tài liệu đầy đủ"} }],
 ]);
 
 if (import.meta.webpackHot) {
