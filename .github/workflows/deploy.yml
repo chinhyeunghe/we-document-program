@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Fix vuepress permission
-        run: chmod +x ./node_modules/.bin/vuepress
+      - name: Fix permissions for VuePress
+        run: chmod +x node_modules/.bin/vuepress node_modules/.bin/vuepress-cli node_modules/.bin/vuepress-vite
 
       - name: Build VuePress
         run: npx vuepress build docs --clean-cache
