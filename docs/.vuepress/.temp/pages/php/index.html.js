@@ -1,3 +1,0 @@
-import comp from "D:/laragon/www/document-program/docs/.vuepress/.temp/pages/php/index.html.vue"
-const data = JSON.parse("{\"path\":\"/php/\",\"title\":\"PHP\",\"lang\":\"vi-VN\",\"frontmatter\":{},\"git\":{\"updatedTime\":1764836967000,\"contributors\":[{\"name\":\"chinhyeunghe\",\"username\":\"chinhyeunghe\",\"email\":\"chinhdd.ph28756@gmail.com\",\"commits\":1,\"url\":\"https://github.com/chinhyeunghe\"}],\"changelog\":[{\"hash\":\"394d881b28613968c9400884c595d4a346d86e9e\",\"time\":1764836967000,\"email\":\"chinhdd.ph28756@gmail.com\",\"author\":\"chinhyeunghe\",\"message\":\"done push project\"}]},\"filePathRelative\":\"php/README.md\"}")
-export { comp, data }
