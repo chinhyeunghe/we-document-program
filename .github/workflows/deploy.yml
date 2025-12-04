@@ -16,13 +16,13 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 20 
 
       - name: Install dependencies
         run: npm install
 
       - name: Fix permissions for VuePress
-        run: chmod +x node_modules/.bin/vuepress node_modules/.bin/vuepress-cli node_modules/.bin/vuepress-vite
+        run: chmod +x node_modules/.bin/vuepress node_modules/.bin/vuepress-vite node_modules/.bin/vuepress-cli
 
       - name: Build VuePress
         run: npx vuepress build docs --clean-cache
