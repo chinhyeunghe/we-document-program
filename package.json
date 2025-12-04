@@ -2,14 +2,17 @@
   "name": "document-program",
   "version": "1.0.0",
   "description": "Đây là một dự án về tài liệu lập trình.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "keywords": [],
   "author": "Dev Dang Duc Chinh",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.26",
+    "@vuepress/theme-default": "^2.0.0-rc.120",
+    "sass-embedded": "^1.93.3",
     "vuepress": "^2.0.0-rc.26"
   }
 }

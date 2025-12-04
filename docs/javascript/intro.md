@@ -1,0 +1,3 @@
+# Giới thiệu JavaScript
+
+JavaScript là ngôn ngữ lập trình...

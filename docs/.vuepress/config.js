@@ -1,0 +1,71 @@
+import { defineUserConfig } from 'vuepress'
+import { defaultTheme } from '@vuepress/theme-default'
+import { viteBundler } from '@vuepress/bundler-vite'
+
+export default defineUserConfig({
+  lang: 'vi-VN',
+  title: 'Tài liệu lập trình',
+  description: 'Website tài liệu lập trình',
+
+  bundler: viteBundler(),
+
+  theme: defaultTheme({
+    logo: '/logo.png',
+    darkMode: true,
+
+    navbar: [
+      {
+        text: 'Trang chủ',
+        link: '/',
+      },
+      {
+        text: 'JavaScript',
+        link: '/javascript/',
+      },
+      {
+        text: 'PHP',
+        link: '/php/',
+      },
+      {
+        text: 'Vue js',
+        link: '/vuejs/',
+      },
+    ],
+
+    // Sidebar
+    sidebar: {
+      '/javascript/': [
+        {
+          text: 'JavaScript',
+          collapsible: true,
+          children: [
+            '/javascript/README.md',
+            '/javascript/intro.md',
+            '/javascript/closure.md',
+          ],
+        },
+      ],
+
+      '/php/': [
+        {
+          text: 'PHP',
+          collapsible: true,
+          children: [
+            '/php/README.md',
+            '/php/intro.md',
+            '/php/pdo.md',
+          ],
+        },
+      ],
+       '/vuejs/': [
+        {
+          text: 'VueJs',
+          collapsible: true,
+          children: [
+            '/vuejs/info.md'
+          ],
+        },
+      ],
+    },
+  }),
+})
