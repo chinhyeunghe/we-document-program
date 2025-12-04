@@ -12,11 +12,11 @@ actions:
     type: secondary
 features:
   - title: JavaScript
-    details: Cùng nhau chia sẻ kiến thức Js
+    details: Chia sẻ kiến thức JavaScript từ cơ bản đến nâng cao
   - title: PHP
-    details: Cùng nhau chia sẻ kiến thức PHP
-  - title: Vue js
-    details: Cùng nhau chia sẻ kiến thức Vue js
+    details: Chia sẻ kiến thức PHP và xây dựng ứng dụng web
+  - title: Vue.js
+    details: Chia sẻ kiến thức Vue.js framework hiện đại
 ---
 
 ## Thành viên đóng góp
@@ -28,4 +28,3 @@ features:
     <p>Front-end / Back-end Developer</p>
   </div>
 </div>
-
