@@ -1,4 +1,5 @@
 <template><div><h2 id="thanh-vien-đong-gop" tabindex="-1"><a class="header-anchor" href="#thanh-vien-đong-gop"><span>Thành viên đóng góp</span></a></h2>
+<p>Cùng nhau chia sẻ kiến thức và phát triển cộng đồng lập trình Việt Nam!</p>
 <div class="team-grid">
   <div class="member-card">
     <img src="/members/image.png" style="border-radius: 10px;" alt="Ae dev Asfy Tech" />

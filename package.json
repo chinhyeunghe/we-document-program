@@ -10,7 +10,7 @@
   "author": "Dev Dang Duc Chinh",
   "license": "ISC",
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.26",
+    "@vuepress/bundler-vite": "^2.0.0-rc.7",
     "@vuepress/theme-default": "^2.0.0-rc.120",
     "sass-embedded": "^1.93.3",
     "vuepress": "^2.0.0-rc.26"

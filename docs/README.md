@@ -11,15 +11,17 @@ actions:
     link: /php/intro
     type: secondary
 features:
-  - title: JavaScript
-    details: Chia sẻ kiến thức JavaScript từ cơ bản đến nâng cao
-  - title: PHP
-    details: Chia sẻ kiến thức PHP và xây dựng ứng dụng web
-  - title: Vue.js
-    details: Chia sẻ kiến thức Vue.js framework hiện đại
+  - title: "JavaScript"
+    details: "Chia se kien thuc JavaScript"
+  - title: "PHP"
+    details: "Chia se kien thuc PHP"
+  - title: "Vue.js"
+    details: "Chia se kien thuc Vue.js"
 ---
 
 ## Thành viên đóng góp
+
+Cùng nhau chia sẻ kiến thức và phát triển cộng đồng lập trình Việt Nam!
 
 <div class="team-grid">
   <div class="member-card">
