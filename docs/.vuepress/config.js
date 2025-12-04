@@ -4,6 +4,7 @@ import { viteBundler } from "@vuepress/bundler-vite";
 import noGit from "./plugin/no-git";
 
 export default defineUserConfig({
+  base: '/we-document-program/',
   lang: "vi-VN",
   title: "Tài liệu lập trình",
   description: "Website tài liệu lập trình",
