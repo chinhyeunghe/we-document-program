@@ -1,19 +1,3 @@
----
-home: true
-title: 'Home'
-heroText: 'Programming Documentation'
-tagline: 'Hello dear programmers! Let’s build and develop this website together to share programming knowledge and documentation.'
-actions:
-  - text: 'Explore PHP'
-    link: '/php/intro'
-    type: 'secondary'
-
-features:
-  - title: 'PHP'
-    details: 'Sharing PHP knowledge and building web applications'
----
-
-
 ## Thành viên đóng góp
 
 <div class="team-grid">
