@@ -1,4 +1,4 @@
-## Thành viên đóng góp
+## Contributors
 
 <div class="team-grid">
   <div class="member-card">
@@ -7,3 +7,4 @@
     <p>Front-end / Back-end Developer</p>
   </div>
 </div>
+

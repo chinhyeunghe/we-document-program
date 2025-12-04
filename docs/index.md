@@ -1,7 +1,5 @@
 ## Contributors
 
-<br>
-
 <div class="team-grid">
   <div class="member-card">
     <img src="/members/image.png" style="border-radius: 10px;" alt="Ae dev Asfy Tech" />
@@ -10,4 +8,3 @@
   </div>
 </div>
 
-<br>
