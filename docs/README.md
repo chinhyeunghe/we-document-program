@@ -1,27 +1,32 @@
 ---
 home: true
-title: Trang chủ
-heroText: Tài liệu lập trình
-tagline: Xin chào những người anh em lập trình iu quí. Chúng ta hãy cùng nhau xây dựng và phát triển mạnh mẽ trên website chia sẻ tài liệu, kiến thức lập trình này nhé!
+title: Trang chu
+heroText: Tai lieu lap trinh
+tagline: Xin chao nhung nguoi anh em lap trinh iu qui!
 actions:
-  - text: Khám phá Javascript
+  - text: Kham pha Javascript
     link: /javascript/intro
     type: primary
-  - text: Khám phá PHP
+  - text: Kham pha PHP
     link: /php/intro
     type: secondary
-features:
-  - title: "JavaScript"
-    details: "Chia se kien thuc JavaScript"
-  - title: "PHP"
-    details: "Chia se kien thuc PHP"
-  - title: "Vue.js"
-    details: "Chia se kien thuc Vue.js"
 ---
 
-## Thành viên đóng góp
+## Cac chu de
 
-Cùng nhau chia sẻ kiến thức và phát triển cộng đồng lập trình Việt Nam!
+::: tip JavaScript
+Hoc JavaScript tu co ban den nang cao
+:::
+
+::: tip PHP
+Hoc PHP va xay dung ung dung web
+:::
+
+::: tip Vue.js
+Hoc Vue.js framework hien dai
+:::
+
+## Thanh vien dong gop
 
 <div class="team-grid">
   <div class="member-card">
