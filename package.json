@@ -1,0 +1,15 @@
+{
+  "name": "document-program",
+  "version": "1.0.0",
+  "description": "Đây là một dự án về tài liệu lập trình.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dev Dang Duc Chinh",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.26"
+  }
+}
