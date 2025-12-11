@@ -160,4 +160,4 @@ Cũng như tùy biến thêm các tham số: title, các nút xác nhận: okTex
 ---
 ## Tác gải
 
-Đặng Đức Chinh - Cảm ơn vì đã tham khảo trang này!
+Đặng Đức Chính - Cảm ơn vì đã tham khảo trang này!
