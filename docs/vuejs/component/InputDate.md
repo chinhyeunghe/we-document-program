@@ -83,5 +83,5 @@ const filters = ref({
 
 ---
 ## Tác giả
-Cảm ơn bạn đã đọc. Xin được bạn góp ý
-Đặng Đức Chính - Thân!
+Cảm ơn bạn đã đọc. Xin được bạn góp ý. 
+ Đặng Đức Chính - Thân!
