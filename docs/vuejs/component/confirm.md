@@ -158,6 +158,6 @@ const handleDelete = async (item) => {
 Cũng như tùy biến thêm các tham số: title, các nút xác nhận: okText, cancelText
 
 ---
-## Tác gải
+## Tác giả
 
 Đặng Đức Chính - Cảm ơn vì đã tham khảo trang này!

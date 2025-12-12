@@ -614,6 +614,6 @@ const handleItemsPerPageChange = (newLimit) => {
 ```
 
 ---
-## Tác gải
+## Tác giả
 
 Đặng Đức Chính - Thân!
