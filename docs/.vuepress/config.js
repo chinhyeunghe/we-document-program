@@ -69,7 +69,7 @@ export default defineUserConfig({
       ],
        "/icon/": [
         {
-          text: "Icon ",
+          text: "Icon",
           collapsible: true,
           children: ["/icon/svg.md"],
         },
