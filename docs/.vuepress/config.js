@@ -33,6 +33,10 @@ export default defineUserConfig({
         text: "Vue js",
         link: "/vuejs/",
       },
+      {
+        text: "Icon",
+        link: "/Icon/",
+      },
     ],
 
     // Sidebar
@@ -67,7 +71,7 @@ export default defineUserConfig({
         {
           text: "Icon ",
           collapsible: true,
-          children: ["/icon/svg.md"],
+          children: ["/Icon/svg.md"],
         },
       ],
     },
