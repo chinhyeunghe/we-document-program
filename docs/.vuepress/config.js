@@ -35,7 +35,7 @@ export default defineUserConfig({
       },
       {
         text: "Icon",
-        link: "/icon/",
+        link: "/warehouse-icon/",
       },
     ],
 
@@ -67,11 +67,11 @@ export default defineUserConfig({
           children: ["/vuejs/info.md", "/vuejs/component/table.md", "/vuejs/component/confirm.md", "/vuejs/component/InputDate", "/vuejs/component/Button", "/vuejs/component/AutoRenderCodeInput"],
         },
       ],
-       "/icon/": [
+       "/warehouse-icon/": [
         {
           text: "Icon",
           collapsible: true,
-          children: ["/icon/svg.md"],
+          children: ["/warehouse-icon/svg.md"],
         },
       ],
     },
