@@ -1,4 +1,4 @@
-# InputMoney -- Component format các loại tiền
+# Component InputMoney
 
 Component **InputMoney** là một input được xây dựng từ
 **FormInput**, hỗ trợ các loại tiền, Việt, Đô, Bảng Anh....
