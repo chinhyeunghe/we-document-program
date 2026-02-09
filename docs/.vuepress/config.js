@@ -64,7 +64,7 @@ export default defineUserConfig({
         {
           text: "VueJs",
           collapsible: true,
-          children: ["/vuejs/info.md", "/vuejs/component/table.md", "/vuejs/component/confirm.md", "/vuejs/component/InputDate", "/vuejs/component/Button", "/vuejs/component/AutoRenderCodeInput"],
+          children: ["/vuejs/info.md", "/vuejs/component/table.md", "/vuejs/component/confirm.md", "/vuejs/component/InputDate", "/vuejs/component/Button", "/vuejs/component/AutoRenderCodeInput", "/vuejs/MetricCards.md", "/vuejs/InputMoney.md"],
         },
       ],
        "/warehouse-icon/": [
