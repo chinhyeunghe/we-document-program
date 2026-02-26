@@ -1,4 +1,4 @@
-# Component Auto Render Code Input
+# Component Metric Cards
 
 ## Mục lục
 
